@@ -13,8 +13,10 @@
             height: calc(100vw - 40px); /* Frame height */
             overflow-y: auto; /* Scrollable content */
             padding: 40px; /* Space inside the frame */
-            box-sizing: border-box;
+            box-sizing: border-box;   
             margin: 20px auto; /* Center the frame */
+        <!-- https://roadmap.sh/projects/single-page-cv -->
+
         }
         body, html {
             height: 100%;
